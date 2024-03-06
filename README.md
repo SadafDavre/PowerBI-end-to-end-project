@@ -2,7 +2,7 @@
 
 Business Challenge: Enhance Diabetes Prevention and Management
 
-Our proposed challenge is to analyze and determine which medical conditions play a significant role and are found in patients prone to diabetes. We will be able to suggest to those patients whether they should get tested for diabetes or not, based on pre-existing medical conditions. We will leverage a diabetes prediction dataset to develop reports and analytics that can help identify individuals at risk of developing diabetes and provide insights for better patient care.
+Our proposed challenge, for our INST 754 Course here at UMD is to analyze and determine which medical conditions play a significant role and are found in patients prone to diabetes. We will be able to suggest to those patients whether they should get tested for diabetes or not, based on pre-existing medical conditions. We will leverage a diabetes prediction dataset to develop reports and analytics that can help identify individuals at risk of developing diabetes and provide insights for better patient care.
 
 Source Data Sets: “Diabetes prediction dataset”
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
