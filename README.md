@@ -1,11 +1,11 @@
 # Project Proposal:
 
-Business Challenge: Enhance Diabetes Prevention and Management
+Business Challenge: Enhance Diabetes Prevention and Management using CDC data
 
 Our proposed challenge, for our INST 754 Course here at UMD is to analyze and determine which medical conditions play a significant role and are found in patients prone to diabetes. We will be able to suggest to those patients whether they should get tested for diabetes or not, based on pre-existing medical conditions. We will leverage a diabetes prediction dataset to develop reports and analytics that can help identify individuals at risk of developing diabetes and provide insights for better patient care.
 
-Source Data Sets: “Diabetes prediction dataset”
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+Source Data Set: “Behavioral Risk Factor Surveillance System : Public health surveys of 400k people from 2011-2015”
+https://www.cdc.gov/brfss/annual_data/annual_data.htm
 
 ## Description and columns of chosen dataset:
 Patients: Contains patient information (e.g. age, gender, BMI).
